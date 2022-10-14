@@ -3,12 +3,12 @@
 # Credits
 The source code is built upon the github repository [Video-Person-ReID](https://github.com/jiyanggao/Video-Person-ReID). Code is developed based on PyTorch Framework.
 
-We would like to thank [jiyanggao] (https://github.com/jiyanggao/Video-Person-ReID) for his generous contribution to release the code to the community.
+We would like to thank [jiyanggao](https://github.com/jiyanggao/Video-Person-ReID) for his generous contribution to release the code to the community.
 
-#Datasets
+# Datasets
 Dataset preparation instructions can be found in the repository [Video-Person-ReID](https://github.com/jiyanggao/Video-Person-ReID). 
 
-#Testing 
+# Testing 
 
 You can run  `sh test.sh ` file or you can run the following command:
 
@@ -18,7 +18,7 @@ You can run  `sh test.sh ` file or you can run the following command:
 Trained model for Mars dataset can be download from the [Google Drive](https://drive.google.com/file/d/1v8Ho4K9a8nKAEiHry_61D7t_pzh8A7Hx/view?usp=sharing)
 
 
-#Citation
+# Citation
 
 ```
 @article{bhuiyan2022stca,
@@ -30,5 +30,4 @@ Trained model for Mars dataset can be download from the [Google Drive](https://d
   year={2022},
   publisher={Elsevier}
 }
-
 ```
