@@ -15,7 +15,7 @@ You can run  `sh test.sh ` file or you can run the following command:
 ` python main_test_32.py  -d mars  --pretrained-model 'Path-to-trained-model/checkpoint_ep450.pth.tar'  --save-dir github `
 
 
-Trained model for Mars dataset can be download from the [Google Drive](https://drive.google.com/file/d/1v8Ho4K9a8nKAEiHry_61D7t_pzh8A7Hx/view?usp=sharing)
+Trained model for Mars dataset can be downloaded from the [Google Drive](https://drive.google.com/file/d/1v8Ho4K9a8nKAEiHry_61D7t_pzh8A7Hx/view?usp=sharing)
 
 
 # Citation
